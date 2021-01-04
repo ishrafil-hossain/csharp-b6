@@ -1,0 +1,13 @@
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.csprojAssemblyReference.cache
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.AssemblyInfoInputs.cache
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.AssemblyInfo.cs
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.csproj.CoreCompileInputs.cache
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.exe
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.deps.json
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.runtimeconfig.json
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.runtimeconfig.dev.json
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.dll
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\bin\Debug\netcoreapp3.1\Answer-3.pdb
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.dll
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.pdb
+C:\DevSkill-C#\csharp-b6\Exam-1\Answer-3\obj\Debug\netcoreapp3.1\Answer-3.genruntimeconfig.cache
