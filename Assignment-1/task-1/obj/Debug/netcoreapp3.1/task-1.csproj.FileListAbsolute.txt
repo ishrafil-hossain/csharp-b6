@@ -1,0 +1,13 @@
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.exe
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.deps.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.runtimeconfig.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.runtimeconfig.dev.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.dll
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\bin\Debug\netcoreapp3.1\task-1.pdb
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.csprojAssemblyReference.cache
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.AssemblyInfoInputs.cache
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.AssemblyInfo.cs
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.csproj.CoreCompileInputs.cache
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.dll
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.pdb
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-1\obj\Debug\netcoreapp3.1\task-1.genruntimeconfig.cache

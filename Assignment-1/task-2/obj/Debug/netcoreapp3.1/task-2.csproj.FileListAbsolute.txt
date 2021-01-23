@@ -1,0 +1,12 @@
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.exe
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.deps.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.runtimeconfig.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.runtimeconfig.dev.json
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.dll
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\bin\Debug\netcoreapp3.1\task-2.pdb
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.AssemblyInfoInputs.cache
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.AssemblyInfo.cs
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.csproj.CoreCompileInputs.cache
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.dll
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.pdb
+C:\DevSkill-C#\New folder\csharp-b6\Assignment-1\task-2\obj\Debug\netcoreapp3.1\task-2.genruntimeconfig.cache
